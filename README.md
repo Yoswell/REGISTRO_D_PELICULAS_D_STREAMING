@@ -1,1 +1,3 @@
 # REGISTRO_D_PELICULAS_D_STREAMING
+
+![peliculas](https://github.com/Yoswell/REGISTRO_D_PELICULAS_D_STREAMING/assets/113799193/27fc046c-156e-45ca-a0b9-b8cae6444b68)
