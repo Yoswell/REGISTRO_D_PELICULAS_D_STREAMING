@@ -1,6 +1,6 @@
 # REGISTRO_D_PELICULAS_D_STREAMING
 
-![peliculas](https://github.com/Yoswell/REGISTRO_D_PELICULAS_D_STREAMING/assets/113799193/27fc046c-156e-45ca-a0b9-b8cae6444b68)
+![peliculas](https://github.com/Yoswell/REGISTRO_D_PELICULAS_D_STREAMING/assets/113799193/278c6843-7f6e-4c8c-8b95-25564914b8a0)
 
 <strong>Instrucciones:</strong><br>Se deberá implementar un programa para gestionar películas por proveedor de streaming<br>
 
